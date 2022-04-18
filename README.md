@@ -2,7 +2,7 @@
 
 ## Project Overview: 
 
-Pewlett Hackard is a large company that is been around for a long time. They are looking for employees who meet their retirement package criteria and they want to know which positions will need to be filled in the near future. Pewlett Hackard provided six csv files with various information regarding employment. By using data from all six csv files and SQL, those similar columns can be joined together. Four new tables were created: Retirement Titles, Unique Titles, Retiring Titles, and Mentorship Eligibility. With the information provided Pewlett Hackard will be able to know who will be retiring soon and who will qualify for the mentoring program. 
+Pewlett Hackard is a large company that has been around for a long time. They are looking for employees who meet their retirement package criteria and they want to know which positions will need to be filled in the near future. Pewlett Hackard provided six csv files with various information regarding employment. By using data from all six csv files and SQL, those similar columns can be joined together. Four new tables were created: Retirement Titles, Unique Titles, Retiring Titles, and Mentorship Eligibility. With the information provided Pewlett Hackard will be able to know who will be retiring soon and who will qualify for the mentoring program. 
 
 ## Results: 
 
@@ -22,9 +22,9 @@ Pewlett Hackard is a large company that is been around for a long time. They are
 <img width="382" alt="Unique_Titles" src="https://user-images.githubusercontent.com/99099706/163858778-735c05e0-e417-4ec6-b0a8-4439f5c24aa4.png">
 
 ## Mentorship Eligibilty
-
+<img width="608" alt="Mentorship_Eligibilty" src="https://user-images.githubusercontent.com/99099706/163858898-c859d8ac-c91f-4efa-bcc4-ebece7b12ea2.png">
 
 ## Summary:
 
-With a large portion of Pewlett Hackard workforce retiring soon they will need to fill 72,458 positions. This means they will need to focus a lot of their energy to replacing this vacancy. The senior positions have the most employees who will retire soon, making the mentorship program a great idea to help assist in such a large turnover rate. While Pewlett Hackard has a lot of work to do, they have the information they need to start preparing for the upcoming “silver tsunami.”
+With a large portion of Pewlett Hackard workforce retiring soon they will need to fill 72,458 positions. This means Pewlett Hackard will need to focus a substantial of their effort on replacing these upcoming vacancy. As seen in table “Retiring Titles” the senior positions have the most employees who will retire soon, making the mentorship program a great idea to help assist in such a large turnover rate. While Pewlett Hackard has a lot of work to do, they have the information they need to start preparing for the upcoming “silver tsunami.”
 
