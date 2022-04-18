@@ -19,7 +19,7 @@ Pewlett Hackard is a large company that is been around for a long time. They are
 <img width="178" alt="Screen Shot 2022-04-18 at 1 38 46 PM" src="https://user-images.githubusercontent.com/99099706/163857624-a583de9b-95b4-47de-833c-b69a77d7157f.png">
 
 ## Unique Titles
-
+<img width="382" alt="Unique_Titles" src="https://user-images.githubusercontent.com/99099706/163858778-735c05e0-e417-4ec6-b0a8-4439f5c24aa4.png">
 
 ## Mentorship Eligibilty
 
