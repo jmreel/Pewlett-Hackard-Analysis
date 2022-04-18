@@ -11,6 +11,10 @@ Pewlett Hackard is a large company that is been around for a long time. They are
 3. Retiring Titles tables shows the majority of employees of retirement age are within senior titles positions. 
 4. Mentorship Eligibility shows Pewlett Hackard the employees who fall into their mentorship program and most of these employees have senior titles. 
 
+## Retiring Titles
+<img width="178" alt="Screen Shot 2022-04-18 at 1 38 46 PM" src="https://user-images.githubusercontent.com/99099706/163857624-a583de9b-95b4-47de-833c-b69a77d7157f.png">
+
+## Retirement Titles 
 
 ## Summary:
 
